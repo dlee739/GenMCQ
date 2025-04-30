@@ -1,0 +1,20 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Ignore API key and environment files
+.env
+
+# Ignore virtual environment if created
+venv/
+
+# Ignore 
+temp/
+
+# Ignore PDFs or lecture files if not meant to be tracked
+INPUT/
+*.pdf
+
+# Ignore any logs or temp files
+*.log
+*.tmp
