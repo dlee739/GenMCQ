@@ -12,8 +12,7 @@ venv/
 temp/
 
 # Ignore PDFs or lecture files if not meant to be tracked
-INPUT/
-*.pdf
+INPUT/*.pdf
 
 # Ignore any logs or temp files
 *.log
